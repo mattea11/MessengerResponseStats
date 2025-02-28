@@ -1,0 +1,212 @@
+{
+    "participants": [
+        {
+            "name": "Mattea"
+        },
+        {
+            "name": "Milena"
+        }
+    ],
+    "messages": [
+        {
+            "sender_name": "Mattea",
+            "timestamp_ms": 1709052000000,
+            "content": "Hey Milena! How’s your day going?"
+        },
+        {
+            "sender_name": "Mattea",
+            "timestamp_ms": 1709052010000,
+            "content": "I had the craziest morning. Almost missed my bus!"
+        },
+        {
+            "sender_name": "Mattea",
+            "timestamp_ms": 1709052020000,
+            "content": "And then my coffee spilled in my bag…"
+        },
+        {
+            "sender_name": "Mattea",
+            "timestamp_ms": 1709052030000,
+            "content": "It was a disaster. 😩"
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052040000,
+            "content": "Oh no! That sounds rough. Did anything survive the coffee flood? 😂"
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052050000,
+            "content": "Also, missing the bus is such a mood. I’ve been there."
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052060000,
+            "content": "My day’s been okay! Just the usual—work, meetings, and trying not to fall asleep at my desk."
+        },
+        {
+            "sender_name": "Mattea",
+            "timestamp_ms": 1709052070000,
+            "content": "Haha, I feel that. The worst part is my notebook got ruined, and it had all my notes in it."
+        },
+        {
+            "sender_name": "Mattea",
+            "timestamp_ms": 1709052080000,
+            "content": "I’m gonna have to rewrite everything from memory. 😭"
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052090000,
+            "content": "Ugh, that sucks! Anything I can do to help?"
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052100000,
+            "content": "Maybe I can remind you of some stuff? We talked about that project last week, right?"
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052110000,
+            "content": "Oh, also! I found this amazing new café. We should go!"
+        },
+        {
+            "sender_name": "Mattea",
+            "timestamp_ms": 1709052120000,
+            "content": "Ooooh, I’m always down for café hopping!"
+        },
+        {
+            "sender_name": "Mattea",
+            "timestamp_ms": 1709052130000,
+            "content": "Where is it?"
+        },
+        {
+            "sender_name": "Mattea",
+            "timestamp_ms": 1709052140000,
+            "content": "Also, yes, please remind me about the project details. I swear my brain is fried today."
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052150000,
+            "content": "It’s this cute little place downtown, near the bookstore. They have the best pastries."
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052160000,
+            "content": "And okay! So for the project, we were thinking of using that new framework."
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052170000,
+            "content": "You were going to handle the backend, and I was going to do the UI."
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052180000,
+            "content": "We also talked about integrating some analytics, remember?"
+        },
+        {
+            "sender_name": "Mattea",
+            "timestamp_ms": 1709052190000,
+            "content": "Right, right! It’s all coming back now. Thank you!"
+        },
+        {
+            "sender_name": "Mattea",
+            "timestamp_ms": 1709052200000,
+            "content": "I need to make sure I don’t lose my notes again."
+        },
+        {
+            "sender_name": "Mattea",
+            "timestamp_ms": 1709052210000,
+            "content": "Maybe I should start using a digital notebook instead of paper. 😅"
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052220000,
+            "content": "Yes!! I keep telling you to go digital."
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052230000,
+            "content": "Evernote, Notion, OneNote—take your pick. Just please stop losing your notes. 😂"
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052240000,
+            "content": "Also, when are you free for the café trip?"
+        },
+        {
+            "sender_name": "Mattea",
+            "timestamp_ms": 1709052250000,
+            "content": "Fine, fine, I’ll finally give in and go digital. You win. 😆"
+        },
+        {
+            "sender_name": "Mattea",
+            "timestamp_ms": 1709052260000,
+            "content": "Hmm, I’m free this Saturday afternoon. Does that work for you?"
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052270000,
+            "content": "Perfect! Let’s meet around 2?"
+        },
+        {
+            "sender_name": "Mattea",
+            "timestamp_ms": 1709052280000,
+            "content": "Sounds great! Can’t wait!"
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052290000,
+            "content": "Me neither! Also, I just realized, we need to go shopping soon too."
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052300000,
+            "content": "I need new shoes, and I trust your fashion sense."
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052310000,
+            "content": "And by 'trust,' I mean I need you to tell me what to buy. 😂"
+        },
+        {
+            "sender_name": "Mattea",
+            "timestamp_ms": 1709052320000,
+            "content": "Haha, I got you! Shopping trip after the café?"
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052330000,
+            "content": "Yes! That’s the perfect plan."
+        },
+        {
+            "sender_name": "Mattea",
+            "timestamp_ms": 1709052340000,
+            "content": "Okay, this weekend is officially going to be amazing. Coffee, shopping, and no more losing notes!"
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052350000,
+            "content": "Exactly! Now I just have to survive work until then. 😅"
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052360000,
+            "content": "Okay, I should get back to it. But let’s finalize the plans on Friday?"
+        },
+        {
+            "sender_name": "Mattea",
+            "timestamp_ms": 1709052370000,
+            "content": "For sure! Talk soon!"
+        },
+        {
+            "sender_name": "Milena",
+            "timestamp_ms": 1709052380000,
+            "content": "Bye, Mattea!"
+        },
+        {
+            "sender_name": "Mattea",
+            "timestamp_ms": 1709052390000,
+            "content": "Bye, Milena!"
+        }
+    ]
+}
